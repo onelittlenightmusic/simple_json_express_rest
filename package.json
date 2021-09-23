@@ -1,0 +1,14 @@
+{
+  "name": "simple_json_express_rest",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/onelittlenightmusic/simple_json_express_rest.git",
+  "author": "Hiro Osaki <hiroyuki.osaki@gmail.com>",
+  "license": "Apache License v2.0",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "scripts": {
+    "start": "node app.js"
+  }
+}
